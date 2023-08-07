@@ -8,8 +8,11 @@ Authors@R:
            email = "robert.kotschenreuther@gmx.de",
            comment = c(ORCID = "0009-0001-0375-9579"))
 Description: Create Reactive Transport Models from configuration files. The resulting scripts are in the style of the ReacTran R-package, using the package functionality. Equivalent models can be scripted in R and Fortran code.
-License: 
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Imports: 
+    ReacTran,
+    yaml
