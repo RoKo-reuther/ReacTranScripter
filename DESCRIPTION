@@ -1,15 +1,14 @@
 Package: ReacTranScripter
-Title: What the Package Does (One Line, Title Case)
+Title: Reactive Transport Model Scripter
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Robert",
+           family = "Kotschenreuther",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "robert.kotschenreuther@gmx.de",
+           comment = c(ORCID = "0009-0001-0375-9579"))
+Description: Create Reactive Transport Models from configuration files. The resulting scripts are in the style of the ReacTran R-package, using the package functionality. Equivalent models can be scripted in R and Fortran code.
+License: 
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
