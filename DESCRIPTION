@@ -11,8 +11,11 @@ Description: Create Reactive Transport Models from configuration files. The resu
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
+NeedsCompilation: no
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Depends:
+    ReacTran
 Imports: 
-    ReacTran,
+    rlist,
     yaml

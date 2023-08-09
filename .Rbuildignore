@@ -1,2 +1,5 @@
 ^ReacTranScripter\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^simple_example
+^README\.Rmd$
