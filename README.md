@@ -59,7 +59,7 @@ devtools::install_github("RoKo-reuther/ReacTranScripter")
       - name gets replaced with R1, R2, …
       - dependencies need to be declared
 
-#### decleration of dependencies
+#### declaration of dependencies
 
 As dependencies of an expression of type *reaction* or *generic* can be
 declared
